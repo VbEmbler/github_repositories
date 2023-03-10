@@ -6,7 +6,7 @@
 for view GitHub repositories
 
 - [GettingStarted](#GettingStarted)
-- [GettingStarted2](#GettingStarted2)
+- [GettingStarted1](#GettingStarted1)
 - [GettingStarted3](#GettingStarted3)
 - [GettingStarted4](#GettingStarted4)
 - [GettingStarted5](#GettingStarted5)
@@ -44,7 +44,7 @@ buildscript {
 
 for view GitHub repositories
 
-## GettingStarted2
+## GettingStarted1
 
 This project is a starting point for a Flutter application.
 
