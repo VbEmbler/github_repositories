@@ -6,12 +6,12 @@
 for view GitHub repositories
 
 - [GettingStarted](#GettingStarted)
-- [GettingStarted1](#GettingStarted1)
-- [GettingStarted3](#GettingStarted3)
-- [GettingStarted4](#GettingStarted4)
-- [GettingStarted5](#GettingStarted5)
-- [GettingStarted6](#GettingsStarted6)
-- [GettingStarted7](#GettingStarted7)
+- [Getting Started 1](#Getting Started 1)
+- [Getting Started 1](#Getting Started 2)
+- [Getting Started 1](#Getting Started 3)
+- [Getting Started 1](#Getting Started 4)
+- [Getting Started 1](#Getting Started 5)
+- [Getting Started 1](#Getting Started 6)
 
 
 ## GettingStarted
@@ -41,10 +41,16 @@ buildscript {
     }
 }
 
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
+```
 
 for view GitHub repositories
 
-## GettingStarted1
+## Getting Started 1
 
 This project is a starting point for a Flutter application.
 
@@ -59,7 +65,7 @@ samples, guidance on mobile development, and a full API reference.
 
 for view GitHub repositories
 
-## GettingStarted3
+## Getting Started 2
 
 This project is a starting point for a Flutter application.
 
@@ -74,7 +80,7 @@ samples, guidance on mobile development, and a full API reference.
 
 for view GitHub repositories
 
-## GettingStarted4
+## Getting Started 3
 
 This project is a starting point for a Flutter application.
 
@@ -89,7 +95,7 @@ samples, guidance on mobile development, and a full API reference.
 
 for view GitHub repositories
 
-## GettingStarted5
+## Getting Started 4
 
 This project is a starting point for a Flutter application.
 
@@ -104,7 +110,7 @@ samples, guidance on mobile development, and a full API reference.
 
 for view GitHub repositories
 
-## GettingStarted6
+## Getting Started 5
 
 This project is a starting point for a Flutter application.
 
@@ -119,7 +125,7 @@ samples, guidance on mobile development, and a full API reference.
 
 for view GitHub repositories
 
-## GettingStarted7
+## Getting Started 6
 
 This project is a starting point for a Flutter application.
 
