@@ -44,7 +44,7 @@ buildscript {
 
 for view GitHub repositories
 
-## Getting Started 2
+## Getting_Started_2
 
 This project is a starting point for a Flutter application.
 
