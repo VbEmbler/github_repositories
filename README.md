@@ -6,12 +6,12 @@
 for view GitHub repositories
 
 - [GettingStarted](#GettingStarted)
-- [Getting Started 2](#Getting Started 2)
-- [Getting Started 3](#Getting started 3)
-- [Getting Started 4](#Getting started 4)
-- [Getting Started 5](#Getting Started 5)
-- [Getting Started 6](#Getting Started 6)
-- [Getting Started 7](#Getting Started 7)
+- [Getting Started 2](#Getting_Started_2)
+- [Getting Started 3](#Getting_started_3)
+- [Getting Started 4](#Getting_started_4)
+- [Getting Started 5](#Getting_started_5)
+- [Getting Started 6](#Getting_started_6)
+- [Getting Started 7](#Getting_started_7)
 
 
 ## GettingStarted
