@@ -5,7 +5,16 @@
 
 for view GitHub repositories
 
-## Getting Started
+- [Getting Started 1](#Getting started 1)
+- [Getting Started 2](#Getting started 2)
+- [Getting Started 3](#Getting started 3)
+- [Getting Started 4](#Getting started 4)
+- [Getting Started 5](#Getting Started 5)
+- [Getting Started 6](#Getting Started 6)
+- [Getting Started 7](#Getting Started 7)
+
+
+## Getting Started 1
 
 This project is a starting point for a Flutter application.
 
@@ -18,56 +27,24 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Only For Test. Delete This after testing
+# Only For Test. 
+
+root build.gradle
+```groovy
+buildscript {
+    repositories {
+        gradlePluginPortal()
+    }
+
+    dependencies {
+        classpath "dev.icerock.moko:resources-generator:0.20.1"
+    }
+}
+
 
 for view GitHub repositories
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-for view GitHub repositories
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-for view GitHub repositories
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-for view GitHub repositories
-
-## Getting Started
+## Getting Started 2
 
 This project is a starting point for a Flutter application.
 
@@ -82,7 +59,7 @@ samples, guidance on mobile development, and a full API reference.
 
 for view GitHub repositories
 
-## Getting Started
+## Getting Started 3
 
 This project is a starting point for a Flutter application.
 
@@ -97,7 +74,52 @@ samples, guidance on mobile development, and a full API reference.
 
 for view GitHub repositories
 
-## Getting Started
+## Getting Started 4
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+for view GitHub repositories
+
+## Getting Started 5
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+for view GitHub repositories
+
+## Getting Started 6
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+for view GitHub repositories
+
+## Getting Started 7
 
 This project is a starting point for a Flutter application.
 
