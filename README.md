@@ -7,11 +7,11 @@ for view GitHub repositories
 
 - [GettingStarted](#GettingStarted)
 - [Getting Started 1](#Getting Started 1)
-- [Getting Started 1](#Getting Started 2)
-- [Getting Started 1](#Getting Started 3)
-- [Getting Started 1](#Getting Started 4)
-- [Getting Started 1](#Getting Started 5)
-- [Getting Started 1](#Getting Started 6)
+- [Getting Started 2](#Getting Started 2)
+- [Getting Started 3](#Getting Started 3)
+- [Getting Started 4](#Getting Started 4)
+- [Getting Started 5](#Getting Started 5)
+- [Getting Started 6](#Getting Started 6)
 
 
 ## GettingStarted
